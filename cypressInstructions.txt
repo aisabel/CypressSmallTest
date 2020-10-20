@@ -12,16 +12,8 @@ npx cypress open
 
 ****
 
-in integration folder click to add new file called: newTest.spec.js
-Then click from the tool window (in cypress) there's nothing
-so close window and click stop in cypress window.
-
 --> WRITING FIRST CYPRESS TEST:
-locate yourself in the react app: (target app)
-C:\Users\irodriguez\Downloads\isa\e2e-cypress\Ex_Files_JavaScript_Cypress_io\Ex_Files_JavaScript_Cypress_io\ExerciseFiles\target-app
-
+locate yourself in the react app: (/cypress/target app)
 then run: npm install 
 and then npm run start
 (this will open in the browser the react app)
-
-first_test.spec.js is to check if there's a text available
